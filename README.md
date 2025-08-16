@@ -1,6 +1,6 @@
 # Breach Bot
 
-This is another Python chatbot that describes the National Health Services 2017 Data Breach.
+This is another Python chatbot that describes the National Health Services 2017 Data Breach. Making this project allowed be to better understand the CIA Triad in Cybersecurity and how it connects to data breaches.
 
 ## How to Run on macOS
 
