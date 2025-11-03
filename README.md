@@ -13,3 +13,6 @@ cd ~/Downloads
 chmod +x main
 xattr -d com.apple.quarantine main
 ./main
+```
+
+<img width="994" height="481" alt="Breach Bot" src="https://github.com/user-attachments/assets/73c93433-9a7f-4c62-a9e4-c5817d849c6b" />
